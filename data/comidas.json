@@ -1,0 +1,549 @@
+﻿[
+{
+"id": "c1",
+"nombre": "Cochinita Pibil",
+"ingredientes": [
+"1 kg de carne de cerdo",
+"650 ml de jugo de naranja",
+"½ cuarto de manteca de cerdo",
+"1 barra de 100 g de axiote",
+"1 cebolla morada",
+"½ cebolla blanca",
+"Chiles habaneros al gusto",
+"2 dientes de ajo",
+"3 pimientas gordas",
+"Orégano al gusto",
+"Limones",
+"1 pizca de azúcar"
+],
+"pasos": [
+"Sellar la carne en la manteca en una olla exprés.",
+"Aparte, dorar la cebolla blanca con los ajos y la pimienta en un sartén.",
+"Licuar lo anterior con ½ litro de jugo de naranja y el axiote.",
+"Agregar la mezcla a la carne en la olla exprés, sazonar con Knorr y cocinar a fuego medio con la olla tapada durante 40 minutos. Si la carne no queda suave, cocinar de 10 a 15 minutos más.",
+"Para la guarnición, cortar los chiles habaneros en rajas y la cebolla morada en juliana.",
+"Colocar los chiles y la cebolla en un recipiente y agregar los 150 ml de jugo de naranja restante.",
+"Agregar jugo de limón al gusto, una pizca de orégano y una pizca de azúcar.",
+"Servir con tacos."
+],
+"tiempo": "1 h"
+},
+{
+"id": "c2",
+"nombre": "Pollo en tomate y chipotle",
+"ingredientes": [
+"Pollo al gusto",
+"½ kg de tomate",
+"4 papas grandes de preferencia",
+"3 zanahorias",
+"1 cebolla grande o 2 medianas",
+"1 lata mediana de chipotle",
+"Hierbas de olor (mejorana o tomillo)",
+"4 hojas de laurel",
+"3 dientes de ajo medianos"
+],
+"pasos": [
+"Lavar bien el pollo con un poco de vinagre y sal, enjuagarlo y dejarlo escurrir hasta que esté un poco seco.",
+"Hacer orificios en toda la superficie del pollo con un tenedor o cuchillo para que se impregne el sabor.",
+"Cortar las papas, zanahorias, cebolla y tomates en cuadritos.",
+"En un sartén eléctrico a 280-300 °C, colocar el pollo y agregar las verduras, las hierbas de olor, el laurel, el ajo picado o martajado, los tomates y finalmente la lata de chipotle. Agregar un poco de agua para enjuagar la lata de chipotle e incorporarla.",
+"Sazonar con sal y Knorr al gusto.",
+"Tapar y cocinar hasta que el pollo esté suave, aproximadamente 30 minutos, realizando revisiones durante la cocción."
+],
+"tiempo": "40 min"
+},
+{
+"id": "c3",
+"nombre": "Pollo al horno",
+"ingredientes": [
+"1 pollo entero",
+"8-10 chiles anchos jaral rojos",
+"4 chiles de árbol (opcional, para mayor picor)",
+"150 g de ajos",
+"Mantequilla",
+"Sal de ajo",
+"Sal entera"
+],
+"pasos": [
+"Lavar bien el pollo con un poco de vinagre y sal, enjuagarlo y dejarlo escurrir hasta que esté bien seco.",
+"Engrasar el interior de un refractario de vidrio con mantequilla hasta cubrirlo bien.",
+"Hacer rajadas diagonales no muy profundas en el pollo y sazonar las piezas con sal de ajo. Colocarlas en el refractario.",
+"Desvenar los chiles.",
+"En una olla grande, poner 1 litro de agua con 2 cucharadas de Knorr y llevar a hervor.",
+"Cuando hierva, bajar la flama.",
+"Dorar los chiles en aceite brevemente, escurrirlos y pasarlos al agua hirviendo.",
+"Sumergir los chiles durante 2 minutos, apagar el fuego y dejarlos reposar otros 2 minutos.",
+"Pelar los ajos.",
+"Licuar los ajos con poca agua y un puñito de sal entera.",
+"Licuar los chiles con el agua hasta obtener una mezcla medio espesa.",
+"Cubrir todo el pollo con la mezcla.",
+"Colocar unas láminas de mantequilla encima.",
+"Cubrir todo el refractario con aluminio.",
+"Hornear durante 1 hora a 180 °C. Revisar que esté blando y retirar el aluminio para dorar durante 20-30 minutos más."
+],
+"tiempo": "1 h 50 min"
+},
+{
+"id": "c4",
+"nombre": "Pollo estilo Agostitlan",
+"ingredientes": [
+"1 pollo entero",
+"8 chiles jalapeños rojos",
+"6 jitomates normales",
+"100 g de ajonjolí",
+"100 g de semilla pelada",
+"100 g de almendras",
+"Clavo al gusto",
+"Pimienta gorda al gusto",
+"Pimienta normal al gusto",
+"6 dientes de ajo"
+],
+"pasos": [
+"Cocer el chile con el jitomate hasta que estén bien cocidos.",
+"Dorar por separado las semillas, el ajonjolí y las almendras.",
+"Lavar y cocer el pollo normalmente.",
+"Licuar todo lo dorado con los dientes de ajo, 4 o 5 pimientas gordas y una pizca de pimienta normal, utilizando caldo de pollo al gusto, hasta obtener una mezcla martajada y espesa. Reservar.",
+"Licuar los jitomates y los chiles con caldo hasta obtener una salsa.",
+"En una cazuela u olla, poner 1 cucharada de manteca o aceite y guisar todo lo molido durante 10 minutos a fuego medio.",
+"Si se está pegando, agregar caldo.",
+"Cuando esté bien sazonado, agregar el pollo."
+],
+"tiempo": "1 h"
+},
+{
+"id": "c5",
+"nombre": "Caldo de Camarón Casero",
+"ingredientes": [
+"500 g de camarón fresco, limpio y pelado",
+"3 jitomates",
+"½ cebolla",
+"2 chiles guajillo, sin semillas ni venas",
+"5 dientes de ajo",
+"Orégano al gusto",
+"1 taza de agua para licuar",
+"1 trocito de mantequilla",
+"Consomé de pollo o camarón (Knorr) al gusto",
+"Pimienta negra al gusto",
+"3 tazas de agua para el caldo",
+"1 papa, picada en cubos",
+"1 calabaza, picada en cubos",
+"1 zanahoria, picada en cubos",
+"1 ramita de cilantro",
+"Sal al gusto"
+],
+"pasos": [
+"Dorar en un sartén los jitomates, la cebolla, los chiles guajillo, los dientes de ajo y una pizca de orégano.",
+"Licuar los ingredientes dorados con 1 taza de agua.",
+"En una olla o sartén profundo con un trocito de mantequilla, guisar la salsa licuada.",
+"Sazonar con Knorr, pimienta negra y sal al gusto, y agregar las 3 tazas de agua restantes.",
+"Incorporar al caldo la papa, la calabaza, la zanahoria y la ramita de cilantro.",
+"Tapar y cocinar a fuego medio durante 10 minutos para ablandar las verduras.",
+"Cocinar aparte el camarón en 2 tazas de agua durante 10-15 minutos, hasta que esté suave.",
+"Agregar el camarón al caldo.",
+"Dejar hervir durante 8 minutos más para evitar que el camarón se sobrecueza.",
+"Servir caliente con limón al gusto."
+],
+"tiempo": "40 min"
+},
+{
+"id": "c6",
+"nombre": "Pollo encacahuatado",
+"ingredientes": [
+"1 pollo en piezas",
+"Ajo y cebolla para cocer el caldo",
+"2 hojas de laurel",
+"Sal al gusto",
+"4 jitomates",
+"4 chiles guajillo",
+"1 taza de cacahuate",
+"2 dientes de ajo",
+"Aceite para freír"
+],
+"pasos": [
+"Cocer el pollo en agua con ajo, cebolla, las hojas de laurel y sal. Una vez cocido, reservar el caldo y las piezas de pollo.",
+"En un sartén con un poco de aceite, dorar los jitomates, los chiles guajillo, el cacahuate y los dientes de ajo.",
+"Licuar todos los ingredientes dorados con el caldo de pollo donde se coció la carne.",
+"Guisar la mezcla licuada en una olla, sazonar al gusto y agregar las piezas de pollo cocidas para integrar los sabores."
+],
+"tiempo": "50 min"
+},
+{
+"id": "c7",
+"nombre": "Pollo en el sartén eléctrico",
+"ingredientes": [
+"1 pollo en piezas",
+"4 papas",
+"4 zanahorias",
+"10 tomates",
+"1 lata mediana de chipotle",
+"3 dientes de ajo picados o triturados",
+"4 hojas de laurel",
+"1 cucharada de Knorr",
+"Sal al gusto",
+"½ vaso de vinagre de manzana",
+"Hierbas de olor (mejorana o tomillo)",
+"1 chorrito de aceite",
+"½ cebolla grande o 1 mediana",
+"Sal de ajo al gusto"
+],
+"pasos": [
+"Lavar y escurrir bien las piezas de pollo.",
+"Cortar las zanahorias, papas, tomates y cebolla en cubos. Triturar o licuar el chipotle con un poco de agua si es necesario.",
+"Poner un chorrito de aceite en el sartén eléctrico.",
+"Sazonar el pollo pieza por pieza con sal de ajo y colocarlo en el sartén.",
+"Cubrir el pollo con las verduras picadas.",
+"Agregar el ajo, laurel, vinagre de manzana, hierbas de olor, Knorr y sal al gusto.",
+"Cubrir todo con el chipotle triturado.",
+"Tapar el sartén y cocinar a temperatura media hasta que el pollo y las verduras estén suaves, dejando que se cocinen con su propio jugo."
+],
+"tiempo": "45 min"
+},
+{
+"id": "c8",
+"nombre": "Pollo entomatado",
+"ingredientes": [
+"1 pollo en piezas",
+"½ kg de tomates",
+"3 chiles jalapeños o serranos, o al gusto",
+"1 manojo de cilantro (5 o 6 ramas)",
+"2 dientes de ajo",
+"½ cebolla",
+"Sal al gusto",
+"1 cucharada de Knorr o al gusto",
+"Agua, la necesaria",
+"Aceite, el necesario para dorar"
+],
+"pasos": [
+"Marinar el pollo con ajo, sal, cebolla y Knorr, haciendo hoyos en las piezas, durante unos 10 minutos.",
+"Preparar la salsa en crudo. Licuar los tomates, chiles, cilantro, ajos, cebolla, sal y Knorr con muy poca agua.",
+"Bañar las piezas de pollo con la salsa licuada y dejar marinar durante unos 10 minutos.",
+"En una olla de presión con un poco de aceite, dorar el pollo.",
+"Retirar el exceso de aceite de la olla.",
+"Agregar la salsa utilizada para marinar y sazonar nuevamente con Knorr si es necesario.",
+"Tapar la olla de presión y cocinar durante 20 minutos."
+],
+"tiempo": "50 min"
+},
+{
+"id": "c9",
+"nombre": "Pollo bonito y barato",
+"ingredientes": [
+"1 pechuga de pollo cortada en cuadritos",
+"2 cebollas cortadas en cuadros grandes",
+"3 dientes de ajo picados",
+"4 chiles jalapeños o serranos picados, o pimiento morrón si no se desea picante",
+"3 calabazas cortadas en cubos",
+"4 zanahorias cortadas en cubos",
+"1 taza de arroz blanco previamente cocido",
+"6 huevos",
+"Salsa de soya o jugo Maggi al gusto",
+"Sal en polvo",
+"Knorr al gusto",
+"Pimienta al gusto",
+"Aceite para cocinar"
+],
+"pasos": [
+"En un sartén grande con un poco de aceite, acitronar la cebolla, el ajo picado y los chiles o pimiento.",
+"Agregar la calabaza y la zanahoria. Sazonar con pimienta, sal o Knorr y un chorrito de salsa de soya o Maggi.",
+"Tapar el sartén y cocinar a fuego medio hasta que la verdura esté suave.",
+"En otro sartén con un poco de aceite, dorar la pechuga de pollo en cuadritos, sazonándola con salsa de soya y pimienta.",
+"En un recipiente o sartén adicional, cocinar los huevos revueltos.",
+"Una vez cocidos todos los componentes, agregar al sartén de las verduras el pollo dorado, el huevo revuelto y el arroz blanco cocido.",
+"Revolver todo cuidadosamente para integrar los ingredientes y sabores. Servir caliente."
+],
+"tiempo": "30 min"
+},
+{
+"id": "c10",
+"nombre": "Frijoles charros",
+"ingredientes": [
+"2 tazas de frijoles cocidos de la olla con su caldo",
+"250 g de tocino picado",
+"250 g de salchicha cortada en rodajas",
+"200 g de jamón picado en cubos",
+"½ cebolla picada",
+"2 chiles jalapeños picados",
+"1 cucharada de manteca de cerdo o aceite"
+],
+"pasos": [
+"Colocar la manteca de cerdo o el aceite en una olla o cazuela profunda a fuego medio.",
+"Dorar el tocino hasta que esté crujiente y suelte su propia grasa. Retirar y reservar.",
+"En la misma grasa, dorar la salchicha. Retirar y reservar.",
+"Dorar ligeramente el jamón y retirarlo para reservar.",
+"Retirar el exceso de grasa, dejando un poco de aceite, y acitronar la cebolla junto con el chile jalapeño.",
+"Incorporar nuevamente el tocino, la salchicha y el jamón.",
+"Agregar los frijoles cocidos junto con su caldo.",
+"Dejar hervir a fuego suave durante unos minutos para integrar los ingredientes, reduciendo el caldo hasta obtener la consistencia deseada."
+],
+"tiempo": "30 min"
+},
+{
+"id": "c11",
+"nombre": "Hamburguesas caseras",
+"ingredientes": [
+"1 kg de carne molida (mitad puerco y mitad res)",
+"¾ de cebolla picada",
+"1 cucharada de salsa inglesa",
+"1 cucharada de mostaza",
+"1 cucharada de salsa BBQ o cátsup",
+"Sal y pimienta al gusto",
+"Perejil fresco picado",
+"Cilantro fresco picado",
+"2 huevos",
+"3 cucharadas de pan molido",
+"Panes para hamburguesa",
+"Rebanadas de queso amarillo, manchego o al gusto",
+"Hojas de lechuga lavada y desinfectada",
+"Jitomate en rodajas",
+"Cebolla en rodajas",
+"Mayonesa, cátsup y mostaza extra",
+"Tocino dorado (opcional)",
+"Chiles jalapeños (opcional)"
+],
+"pasos": [
+"Picar finamente la cebolla, el perejil y el cilantro.",
+"Mezclar la carne molida con la cebolla, perejil, cilantro, salsa inglesa, mostaza, salsa BBQ o cátsup, huevos, pan molido, sal y pimienta. Amasar hasta integrar.",
+"Tomar una porción de la mezcla, formar una bola y aplastarla para darle forma de hamburguesa.",
+"Freír la carne en un sartén o plancha caliente con un poco de aceite por ambos lados hasta que esté bien cocida. Un minuto antes de retirarla, colocar una rebanada de queso encima.",
+"Calentar ligeramente los panes en la misma plancha. Se puede untar mayonesa o mantequilla para dorarlos.",
+"Untar mayonesa, mostaza y cátsup en los panes.",
+"Colocar la carne con queso fundido sobre la base del pan y agregar lechuga, jitomate, cebolla, tocino y jalapeños al gusto.",
+"Cerrar la hamburguesa con la tapa del pan y servir."
+],
+"tiempo": "30 min"
+},
+{
+"id": "c12",
+"nombre": "Brochetas",
+"ingredientes": [
+"500 g de carne de res cortada en cubos",
+"Jamón de pavo o puerco en cubos gruesos",
+"Salchichón en rodajas gruesas o cubos",
+"Tocino en trozos cuadrados",
+"3 pimientos morrones cortados en cubos",
+"1 cebolla cortada en cubos",
+"Sal de ajo al gusto",
+"Pimienta negra al gusto",
+"Aceite de oliva",
+"Jugo de limón al gusto",
+"Ablandador de carne al gusto",
+"Consomé de pollo en polvo al gusto",
+"1 chorrito de cerveza (opcional, para marinar)",
+"Palillos para brochetas de madera o metal"
+],
+"pasos": [
+"Preparar la marinada mezclando el jugo de limón, pimienta negra, ablandador de carne, consomé de pollo y cerveza opcional.",
+"Agregar la carne de res a la marinada, mezclar bien y dejar reposar al menos 30 minutos.",
+"Cortar el jamón, salchichón, tocino, pimientos morrones y cebolla en trozos de tamaño similar a la carne.",
+"Armar las brochetas ensartando los ingredientes en los palillos e intercalándolos.",
+"Agregar un poco de aceite de oliva sobre las brochetas y espolvorear sal de ajo al gusto.",
+"Calentar una plancha, sartén grande o asador a fuego medio-alto.",
+"Colocar las brochetas y cocinarlas, dándoles vuelta constantemente para que la carne se cueza bien y todos los ingredientes se doren uniformemente.",
+"Retirar del fuego y servir calientes."
+],
+"tiempo": "50 min"
+},
+{
+"id": "c13",
+"nombre": "Hot Dogs",
+"ingredientes": [
+"6 salchichas para hot dog",
+"6 panes para hot dog",
+"Mostaza al gusto",
+"Catsup al gusto",
+"Mayonesa al gusto",
+"½ cebolla picada finamente",
+"2 jitomates picados",
+"Chiles jalapeños en escabeche picados (opcional)",
+"Queso amarillo rallado o en tiras (opcional)",
+"Tocino (opcional, para envolver la salchicha)"
+],
+"pasos": [
+"Si se utiliza tocino, envolver cada salchicha con una rebanada y sujetarla con un palillo.",
+"Cocer las salchichas en agua hirviendo durante 5 minutos, o freírlas o asarlas hasta que doren si llevan tocino.",
+"Calentar ligeramente los panes en un comal o sartén si se desea.",
+"Colocar cada salchicha dentro de su pan.",
+"Agregar la cebolla y el jitomate picados.",
+"Añadir el queso y los jalapeños si se desea.",
+"Terminar con mostaza, catsup y mayonesa al gusto y servir de inmediato."
+],
+"tiempo": "15 min"
+},
+{
+"id": "c14",
+"nombre": "Atún con pico de gallo",
+"ingredientes": [
+"2 latas de atún en agua, escurrido",
+"2 jitomates picados finamente",
+"½ cebolla picada finamente",
+"1-2 chiles serranos picados al gusto",
+"Cilantro picado al gusto",
+"Jugo de 2 limones",
+"Sal al gusto",
+"Galletas saladas o tostadas para acompañar"
+],
+"pasos": [
+"Desmenuzar el atún escurrido con un tenedor en un tazón.",
+"Agregar el jitomate, la cebolla y el chile serrano picados.",
+"Incorporar el cilantro picado.",
+"Rociar el jugo de limón sobre la mezcla.",
+"Sazonar con sal al gusto.",
+"Mezclar bien todos los ingredientes.",
+"Refrigerar durante 10 minutos antes de servir y acompañar con galletas o tostadas."
+],
+"tiempo": "15 min"
+},
+{
+"id": "c15",
+"nombre": "Ensalada rusa",
+"ingredientes": [
+"3 papas medianas, cocidas y en cubos",
+"2 zanahorias, cocidas y en cubos",
+"1 taza de chícharos cocidos",
+"3 huevos cocidos, en cubos",
+"1 taza de mayonesa",
+"½ taza de jamón picado (opcional)",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"Cocer las papas y zanahorias en cubos hasta que estén suaves pero firmes. Dejar enfriar.",
+"Cocer los chícharos por separado y dejar enfriar.",
+"Mezclar las papas, zanahorias y chícharos ya fríos en un tazón grande.",
+"Agregar los huevos cocidos en cubos y el jamón picado opcional.",
+"Incorporar la mayonesa poco a poco hasta lograr la consistencia deseada.",
+"Sazonar con sal y pimienta al gusto.",
+"Mezclar con cuidado y refrigerar al menos 30 minutos antes de servir."
+],
+"tiempo": "45 min"
+},
+{
+"id": "c16",
+"nombre": "Soya a la mexicana",
+"ingredientes": [
+"2 tazas de soya texturizada deshidratada",
+"Agua caliente para hidratar",
+"2 jitomates picados",
+"½ cebolla picada",
+"1 diente de ajo picado",
+"1 chile serrano picado (opcional)",
+"2 cucharadas de aceite",
+"Sal y pimienta al gusto",
+"Cilantro picado al gusto"
+],
+"pasos": [
+"Colocar la soya texturizada en un tazón y cubrirla con agua caliente. Dejar reposar durante 10-15 minutos hasta que se hidrate y suavice.",
+"Escurrir bien la soya y exprimir el exceso de agua con las manos.",
+"Calentar el aceite en una sartén y sofreír la cebolla y el ajo hasta que estén transparentes.",
+"Agregar el jitomate y el chile serrano y cocinar hasta que el jitomate se suavice.",
+"Incorporar la soya hidratada y mezclar bien con el sofrito.",
+"Sazonar con sal y pimienta y cocinar a fuego medio durante 8-10 minutos, moviendo ocasionalmente.",
+"Espolvorear cilantro picado antes de servir. Acompañar con tortillas o arroz."
+],
+"tiempo": "30 min"
+},
+{
+"id": "c17",
+"nombre": "Filete empanizado",
+"ingredientes": [
+"4 filetes de pollo o res, delgados",
+"1 taza de harina",
+"2 huevos, batidos",
+"1.5 tazas de pan molido",
+"Sal y pimienta al gusto",
+"Aceite para freír"
+],
+"pasos": [
+"Sazonar los filetes con sal y pimienta por ambos lados.",
+"Preparar tres platos: uno con harina, otro con los huevos batidos y otro con el pan molido.",
+"Pasar cada filete primero por la harina y sacudir el exceso.",
+"Sumergir el filete en el huevo batido, cubriendo bien toda la superficie.",
+"Empanizar el filete con el pan molido, presionando ligeramente para que se adhiera.",
+"Calentar suficiente aceite en una sartén a fuego medio-alto.",
+"Freír los filetes durante 3-4 minutos por lado, hasta que estén dorados y bien cocidos. Escurrir sobre papel absorbente."
+],
+"tiempo": "20 min"
+},
+{
+"id": "c18",
+"nombre": "Boneless",
+"ingredientes": [
+"500 g de pechuga de pollo en trozos o tiras",
+"1 taza de harina",
+"1 cucharadita de paprika",
+"1 cucharadita de ajo en polvo",
+"1 taza de leche",
+"1 huevo",
+"1.5 tazas de pan molido o panko",
+"Sal y pimienta al gusto",
+"Aceite para freír",
+"Salsa búfalo o BBQ (opcional, para bañar)"
+],
+"pasos": [
+"Sazonar el pollo con sal y pimienta.",
+"En un tazón, mezclar la harina con la paprika y el ajo en polvo.",
+"En otro tazón, batir la leche con el huevo.",
+"Pasar cada trozo de pollo por la harina sazonada y sacudir el exceso.",
+"Sumergir el pollo en la mezcla de leche y huevo.",
+"Empanizar con el pan molido o panko, presionando para que se adhiera bien.",
+"Freír en aceite caliente durante 4-5 minutos por lado hasta dorar y cocer por completo.",
+"Bañar los boneless con salsa búfalo o BBQ antes de servir si se desea."
+],
+"tiempo": "25 min"
+},
+{
+"id": "c19",
+"nombre": "Alitas",
+"ingredientes": [
+"1 kg de alitas de pollo",
+"1 taza de harina",
+"1 cucharadita de paprika",
+"1 cucharadita de ajo en polvo",
+"Sal y pimienta al gusto",
+"Aceite para freír",
+"Salsa búfalo, BBQ o al gusto",
+"2 cucharadas de mantequilla para la salsa"
+],
+"pasos": [
+"Sazonar las alitas con sal y pimienta.",
+"En un tazón, mezclar la harina con la paprika y el ajo en polvo.",
+"Empanizar cada alita con la mezcla de harina y sacudir el exceso.",
+"Calentar suficiente aceite en una sartén u olla a fuego medio-alto.",
+"Freír las alitas durante 10-12 minutos, volteándolas ocasionalmente, hasta que estén doradas y bien cocidas por dentro.",
+"Derretir la mantequilla y mezclarla con la salsa búfalo o BBQ elegida.",
+"Escurrir las alitas y bañarlas con la salsa caliente, moviendo bien para cubrirlas por completo.",
+"Servir de inmediato."
+],
+"tiempo": "30 min"
+},
+{
+"id": "c20",
+"nombre": "Chifrijo de Costa Rica",
+"ingredientes": [
+"500 g de carne de cerdo en trozos",
+"2 tazas de frijoles enteros rojos o negros, cocidos con su caldo",
+"1 taza de arroz blanco cocido",
+"2 tomates picados en cubos",
+"½ cebolla picada finamente",
+"1 manojo de cilantro fresco picado",
+"Jugo de 1 o 2 limones",
+"1 cucharada de Salsa Lizano o salsa inglesa",
+"Sal y pimienta al gusto",
+"1 aguacate en cubos o rebanadas",
+"Chiles jalapeños en vinagre al gusto",
+"Picos de tortillas tostadas",
+"Aceite o manteca de cerdo para freír"
+],
+"pasos": [
+"Sazonar la carne de cerdo con sal y pimienta. Freír los trozos en suficiente aceite o manteca caliente a fuego medio-alto hasta que estén dorados y crujientes. Retirar y escurrir el exceso de grasa.",
+"Preparar el pico de gallo mezclando el tomate, la cebolla y el cilantro. Sazonar con jugo de limón, sal y Salsa Lizano. Revolver y dejar reposar para integrar los sabores.",
+"Calentar el arroz blanco y los frijoles enteros, asegurándose de que los frijoles conserven un poco de caldo.",
+"Colocar una base de arroz blanco en un tazón hondo.",
+"Servir encima una capa de frijoles enteros con un poco de su propio caldo.",
+"Agregar como tercera capa los trozos de carne de cerdo dorada.",
+"Añadir una capa generosa del pico de gallo.",
+"Coronar con el aguacate y los chiles en vinagre al gusto.",
+"Acomodar los picos de tortillas tostadas alrededor de los bordes del tazón y servir."
+],
+"tiempo": "45 min"
+}
+]

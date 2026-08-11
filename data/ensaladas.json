@@ -1,0 +1,270 @@
+﻿[
+{
+"id": "e1",
+"nombre": "Ensalada de aguacate con jitomate y cebolla",
+"ingredientes": [
+"2 aguacates maduros, en cubos",
+"3 jitomates medianos, en cubos",
+"1/2 cebolla morada, fileteada",
+"Cilantro picado al gusto",
+"Jugo de 1 limón",
+"Aceite de oliva al gusto",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"En un tazón grande, colocar los cubos de aguacate y jitomate.",
+"Agregar la cebolla morada fileteada y el cilantro picado.",
+"Rociar el jugo de limón y el aceite de oliva sobre la mezcla.",
+"Sazonar con sal y pimienta al gusto.",
+"Mezclar con cuidado para no deshacer el aguacate y servir de inmediato."
+],
+"tiempo": "10 min"
+},
+{
+"id": "e2",
+"nombre": "Ensalada de nopales",
+"ingredientes": [
+"4 nopales medianos, limpios y cortados en cuadritos",
+"2 jitomates, picados",
+"1/2 cebolla, picada",
+"Cilantro picado al gusto",
+"100 g de queso panela, en cubos (opcional)",
+"Jugo de 1 limón",
+"Aceite de oliva al gusto",
+"Sal al gusto"
+],
+"pasos": [
+"Cocer los nopales en agua con un poco de sal hasta que estén suaves, aproximadamente 10 minutos.",
+"Escurrir los nopales y enjuagarlos con agua fría para quitar la baba.",
+"En un tazón, mezclar los nopales con el jitomate, la cebolla y el cilantro.",
+"Agregar el queso panela si se desea.",
+"Rociar con jugo de limón, aceite de oliva y sal al gusto.",
+"Mezclar bien y servir fría o a temperatura ambiente."
+],
+"tiempo": "20 min"
+},
+{
+"id": "e3",
+"nombre": "Ensalada de fresa con espinaca y aguacate",
+"ingredientes": [
+"4 tazas de espinaca fresca",
+"1 taza de fresas, en rodajas",
+"1 aguacate, en cubos",
+"1/4 taza de nueces o cacahuates picados",
+"2 cucharadas de aceite de oliva",
+"1 cucharada de vinagre balsámico",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"Lavar y secar bien la espinaca y colocarla como base en un platón grande.",
+"Distribuir encima las fresas en rodajas y los cubos de aguacate.",
+"Espolvorear las nueces o cacahuates picados.",
+"En un tazón pequeño, mezclar el aceite de oliva con el vinagre balsámico, sal y pimienta para preparar el aderezo.",
+"Rociar el aderezo sobre la ensalada justo antes de servir.",
+"Mezclar ligeramente y servir de inmediato."
+],
+"tiempo": "10 min"
+},
+{
+"id": "e4",
+"nombre": "Ensalada de elote con jitomate y aguacate",
+"ingredientes": [
+"3 elotes cocidos, desgranados",
+"2 jitomates, picados",
+"1 aguacate, en cubos",
+"1/4 de cebolla, picada finamente",
+"Cilantro picado al gusto",
+"Jugo de 2 limones",
+"Chile piquín o chile en polvo al gusto",
+"Sal al gusto"
+],
+"pasos": [
+"En un tazón grande, mezclar los granos de elote con el jitomate picado.",
+"Agregar el aguacate en cubos y la cebolla picada.",
+"Incorporar el cilantro picado.",
+"Rociar el jugo de limón sobre la mezcla.",
+"Espolvorear sal y chile piquín al gusto.",
+"Mezclar con cuidado y servir fresca."
+],
+"tiempo": "10 min"
+},
+{
+"id": "e5",
+"nombre": "Ensalada de jícama con zarzamora",
+"ingredientes": [
+"1 jícama mediana, en bastones o cubos",
+"1 taza de zarzamoras frescas",
+"Jugo de 2 limones",
+"Chile piquín en polvo al gusto",
+"Sal al gusto",
+"Hojas de menta o hierbabuena (opcional)"
+],
+"pasos": [
+"Pelar la jícama y cortarla en bastones o cubos delgados.",
+"Colocar la jícama en un platón y distribuir las zarzamoras encima.",
+"Rociar el jugo de limón sobre toda la ensalada.",
+"Espolvorear sal y chile piquín al gusto.",
+"Decorar con hojas de menta o hierbabuena si se desea.",
+"Servir fría."
+],
+"tiempo": "10 min"
+},
+{
+"id": "e6",
+"nombre": "Ensalada de guayaba con lechuga y queso panela",
+"ingredientes": [
+"4 tazas de lechuga romana o mixta",
+"3 guayabas, en rodajas",
+"100 g de queso panela, en cubos",
+"1/4 taza de nueces picadas",
+"2 cucharadas de aceite de oliva",
+"1 cucharada de miel",
+"Jugo de 1 limón",
+"Sal al gusto"
+],
+"pasos": [
+"Lavar la lechuga y colocarla como base en un platón.",
+"Distribuir encima las rodajas de guayaba y los cubos de queso panela.",
+"Espolvorear las nueces picadas.",
+"En un tazón pequeño, mezclar el aceite de oliva, la miel y el jugo de limón para preparar el aderezo.",
+"Sazonar el aderezo con sal al gusto.",
+"Rociar el aderezo sobre la ensalada justo antes de servir."
+],
+"tiempo": "10 min"
+},
+{
+"id": "e7",
+"nombre": "Ensalada de papa con ejotes",
+"ingredientes": [
+"4 papas medianas, cocidas y en cubos",
+"1 taza de ejotes, cocidos y cortados",
+"1/4 de cebolla, picada finamente",
+"2 cucharadas de mayonesa o yogurt natural",
+"1 cucharada de mostaza",
+"Jugo de 1 limón",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"En un tazón grande, mezclar las papas cocidas con los ejotes cocidos.",
+"Agregar la cebolla picada finamente.",
+"En un tazón aparte, combinar la mayonesa, la mostaza y el jugo de limón.",
+"Verter el aderezo sobre las papas y los ejotes.",
+"Sazonar con sal y pimienta al gusto.",
+"Mezclar con cuidado y refrigerar durante 20 minutos antes de servir."
+],
+"tiempo": "30 min"
+},
+{
+"id": "e8",
+"nombre": "Ensalada de coliflor y brócoli",
+"ingredientes": [
+"2 tazas de coliflor, en floretes pequeños",
+"2 tazas de brócoli, en floretes pequeños",
+"1/4 taza de cebolla morada, picada",
+"3 cucharadas de aceite de oliva",
+"1 cucharada de vinagre de manzana",
+"1/4 taza de queso cotija, desmoronado",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"Blanquear la coliflor y el brócoli en agua hirviendo durante 2 a 3 minutos.",
+"Escurrir y sumergir de inmediato en agua fría para detener la cocción.",
+"Colocar la coliflor y el brócoli ya fríos en un tazón grande.",
+"Agregar la cebolla morada picada.",
+"Rociar el aceite de oliva y el vinagre de manzana.",
+"Sazonar con sal y pimienta y espolvorear el queso cotija antes de servir."
+],
+"tiempo": "15 min"
+},
+{
+"id": "e9",
+"nombre": "Ensalada de garbanzo con verduras",
+"ingredientes": [
+"2 tazas de garbanzo cocido",
+"1 pepino, en cubos",
+"1 pimiento morado o rojo, en cubos",
+"1/4 de cebolla, picada",
+"Perejil picado al gusto",
+"3 cucharadas de aceite de oliva",
+"Jugo de 1 limón",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"En un tazón grande, colocar el garbanzo cocido y escurrido.",
+"Agregar el pepino, el pimiento y la cebolla picados.",
+"Incorporar el perejil picado.",
+"Rociar el aceite de oliva y el jugo de limón.",
+"Sazonar con sal y pimienta al gusto.",
+"Mezclar bien y refrigerar al menos 15 minutos antes de servir."
+],
+"tiempo": "20 min"
+},
+{
+"id": "e10",
+"nombre": "Ensalada de betabel con queso panela",
+"ingredientes": [
+"3 betabeles medianos, cocidos y en cubos",
+"100 g de queso panela, en cubos",
+"1/4 de cebolla morada, fileteada",
+"2 tazas de lechuga o espinaca",
+"2 cucharadas de aceite de oliva",
+"1 cucharada de vinagre balsámico",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"Colocar la lechuga o espinaca como base en un platón.",
+"Distribuir encima los cubos de betabel cocido.",
+"Agregar el queso panela en cubos y la cebolla morada fileteada.",
+"En un tazón pequeño, mezclar el aceite de oliva con el vinagre balsámico.",
+"Sazonar el aderezo con sal y pimienta.",
+"Rociar el aderezo sobre la ensalada justo antes de servir."
+],
+"tiempo": "10 min"
+},
+{
+"id": "e11",
+"nombre": "Ensalada de calabacita y elote",
+"ingredientes": [
+"2 calabacitas medianas, en cubos",
+"1 taza de granos de elote, frescos o cocidos",
+"1/4 de cebolla, picada",
+"1 chile poblano, asado, pelado y en tiras",
+"Cilantro picado al gusto",
+"2 cucharadas de aceite de oliva",
+"Jugo de 1 limón",
+"Sal al gusto"
+],
+"pasos": [
+"Saltear las calabacitas en un poco de aceite hasta que estén tiernas pero firmes. Dejar enfriar.",
+"En un tazón grande, mezclar las calabacitas con los granos de elote.",
+"Agregar la cebolla picada y las tiras de chile poblano.",
+"Incorporar el cilantro picado.",
+"Rociar el aceite de oliva y el jugo de limón.",
+"Sazonar con sal al gusto y mezclar bien antes de servir."
+],
+"tiempo": "15 min"
+},
+{
+"id": "e12",
+"nombre": "Ensalada de arroz con verduras",
+"ingredientes": [
+"2 tazas de arroz blanco cocido y frío",
+"1 zanahoria rallada",
+"1/2 taza de chícharos cocidos",
+"1/4 de pimiento rojo, picado",
+"1/4 de cebolla, picada",
+"3 cucharadas de aceite de oliva",
+"Jugo de 1 limón",
+"Sal y pimienta al gusto"
+],
+"pasos": [
+"En un tazón grande, colocar el arroz frío y desmenuzarlo con un tenedor.",
+"Agregar la zanahoria rallada y los chícharos cocidos.",
+"Incorporar el pimiento y la cebolla picados.",
+"Rociar el aceite de oliva y el jugo de limón.",
+"Sazonar con sal y pimienta al gusto.",
+"Mezclar bien y servir fría o a temperatura ambiente."
+],
+"tiempo": "10 min"
+}
+]

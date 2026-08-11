@@ -1,0 +1,411 @@
+﻿[
+{
+"id": "a1",
+"nombre": "Agua de Sandía",
+
+"ingredientes": [
+"1 sandía mediana (aproximadamente 1.5 kg de pulpa sin cáscara)",
+"2 litros de agua natural",
+"¼ de taza de azúcar (ajustar al gusto)",
+"Hielo al gusto",
+"Jugo de 1 limón (opcional)"
+],
+"pasos": [
+"Cortar la sandía en cubos, retirando la cáscara. Si tiene semillas negras grandes, retirar la mayor cantidad posible; las semillas blancas se pueden licuar.",
+"Colocar los cubos de sandía con ½ litro de agua y el azúcar en la licuadora. Hacerlo en dos partes si es necesario para no saturarla.",
+"Licuar muy bien hasta obtener una mezcla líquida.",
+"Colar la mezcla si se desea una textura más limpia.",
+"Verter en una jarra, agregar el jugo de limón opcional y el agua restante.",
+"Mezclar bien, verificar el dulzor y añadir hielo al servir."
+],
+"tiempo": "15 min"
+},
+{
+"id": "a2",
+"nombre": "Agua de Tuna",
+"ingredientes": [
+"8 a 10 tunas verdes o rojas (peladas)",
+"2 litros de agua natural",
+"½ taza de azúcar (o al gusto)",
+"Jugo de 2 limones",
+"Hielo al gusto"
+],
+"pasos": [
+"Pelar las tunas con cuidado para evitar espinarse y cortarlas por la mitad.",
+"Colocar las tunas en la licuadora con el azúcar y 1 litro de agua.",
+"Licuar utilizando el botón de pulsar o la velocidad más baja durante unos pocos segundos para desprender la pulpa sin triturar las semillas.",
+"Pasar la mezcla por un colador fino directamente hacia una jarra grande y desechar las semillas.",
+"Agregar el jugo de los limones y el litro de agua restante.",
+"Mezclar bien, probar y ajustar el azúcar. Servir fría con hielo."
+],
+"tiempo": "15 min"
+},
+{
+"id": "a3",
+"nombre": "Agua de Jamaica con Sandía",
+"ingredientes": [
+"1 taza de flor de jamaica seca",
+"4 tazas de pulpa de sandía en cubos (sin semillas gruesas)",
+"2.5 litros de agua natural",
+"½ taza de azúcar (o al gusto)",
+"Hielo al gusto"
+],
+"pasos": [
+"Hervir 1 litro de agua en una olla. Cuando suelte el hervor, agregar la flor de jamaica, apagar el fuego y dejar reposar tapado durante 15 a 20 minutos.",
+"Colar el concentrado de jamaica hacia una jarra grande y desechar las flores. Dejar enfriar un poco.",
+"Moler la sandía junto con el azúcar y ½ litro de agua en la licuadora hasta obtener un líquido sin grumos.",
+"Verter la mezcla de sandía en la jarra con el concentrado de jamaica.",
+"Agregar el litro de agua restante y mezclar muy bien.",
+"Rectificar el dulzor, ya que la jamaica es ácida y podría requerir más azúcar.",
+"Agregar hielo y servir fría."
+],
+"tiempo": "30 min"
+},
+{
+"id": "a4",
+"nombre": "Agua de Limón con Pepino",
+"ingredientes": [
+"2 pepinos grandes",
+"8 a 10 limones jugosos",
+"2 litros de agua natural",
+"¾ de taza de azúcar (o al gusto)",
+"Hielo al gusto",
+"Hojas de menta fresca (opcional)"
+],
+"pasos": [
+"Lavar muy bien los pepinos. Cortar los extremos, pelarlos y partirlos a la mitad para retirar las semillas con una cuchara.",
+"Cortar el pepino sin semillas en trozos pequeños.",
+"Exprimir los limones para extraer todo su jugo, evitando que se vayan las semillas.",
+"Colocar el pepino picado, el jugo de limón, el azúcar y ½ litro de agua en la licuadora.",
+"Licuar perfectamente hasta que el pepino esté completamente molido.",
+"Pasar la mezcla por un colador hacia una jarra o dejarla sin colar si se prefiere conservar la pulpa.",
+"Agregar el litro y medio de agua restante y remover bien.",
+"Probar y ajustar el azúcar. Agregar hojas de menta opcionales y servir con bastante hielo."
+],
+"tiempo": "15 min"
+},
+{
+"id": "a5",
+"nombre": "Agua de Guayaba con Fresa",
+"ingredientes": [
+"6 guayabas maduras, partidas en cuartos",
+"1 taza de fresas frescas, sin rabito",
+"1 litro de agua",
+"½ taza de azúcar (al gusto)",
+"Hielo al gusto"
+],
+"pasos": [
+"Licuar las guayabas y las fresas con un poco del agua hasta obtener una mezcla suave.",
+"Colar para quitar las semillas de guayaba.",
+"Verter en una jarra y agregar el resto del agua y el azúcar.",
+"Mezclar bien.",
+"Servir con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a6",
+"nombre": "Agua de Limón con Chía",
+"ingredientes": [
+"6 limones (el jugo)",
+"1 litro de agua",
+"3 cucharadas de semillas de chía",
+"½ taza de azúcar (al gusto)",
+"Hielo al gusto"
+],
+"pasos": [
+"Exprimir los limones y colar el jugo.",
+"Mezclar el jugo con el agua y el azúcar en una jarra hasta disolver.",
+"Agregar la chía y dejar reposar durante 15 a 20 minutos para que las semillas se hidraten y esponjen.",
+"Servir con hielo."
+],
+"tiempo": "25 min"
+},
+{
+"id": "a7",
+"nombre": "Agua de Jamaica",
+"ingredientes": [
+"1 taza de flor de jamaica seca",
+"1.5 litros de agua",
+"Azúcar al gusto",
+"Hielo al gusto"
+],
+"pasos": [
+"Hervir la flor de jamaica en 2 tazas de agua durante 5 minutos.",
+"Retirar del fuego, tapar y dejar reposar durante 15 minutos.",
+"Colar el concentrado.",
+"Mezclar con el resto del agua y endulzar al gusto.",
+"Servir con hielo."
+],
+"tiempo": "25 min"
+},
+{
+"id": "a8",
+"nombre": "Agua de Sandía con Menta",
+"ingredientes": [
+"4 tazas de sandía en cubos, sin semillas",
+"1 litro de agua",
+"Un puñado de hojas de menta fresca",
+"Azúcar al gusto (opcional)",
+"Hielo al gusto"
+],
+"pasos": [
+"Licuar la sandía con la menta y un poco de agua hasta obtener una mezcla suave.",
+"Colar si se prefiere una textura más ligera.",
+"Verter en una jarra con el resto del agua.",
+"Endulzar si es necesario.",
+"Servir con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a9",
+"nombre": "Agua de Piña con Pepino",
+"ingredientes": [
+"2 tazas de piña picada",
+"1 pepino mediano, pelado y picado",
+"1 litro de agua",
+"Jugo de 1 limón",
+"Azúcar al gusto"
+],
+"pasos": [
+"Licuar la piña y el pepino con un poco de agua.",
+"Colar la mezcla y verterla en una jarra.",
+"Agregar el resto del agua, el jugo de limón y azúcar al gusto.",
+"Servir bien fría con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a10",
+"nombre": "Agua de Mango con Chile Piquín",
+"ingredientes": [
+"2 mangos maduros, pelados y en trozos",
+"1 litro de agua",
+"Jugo de 1 limón",
+"Azúcar al gusto",
+"Chile piquín en polvo (para espolvorear)"
+],
+"pasos": [
+"Licuar el mango con el agua y el jugo de limón hasta obtener una mezcla tersa.",
+"Colar si se desea.",
+"Endulzar al gusto.",
+"Servir con hielo.",
+"Espolvorear un poco de chile piquín encima antes de servir."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a11",
+"nombre": "Agua de Horchata",
+"ingredientes": [
+"1 taza de arroz crudo",
+"1 raja de canela",
+"1 litro de agua caliente (para remojar)",
+"1 lata de leche evaporada (opcional)",
+"Azúcar al gusto",
+"1 litro de agua fría",
+"Hielo al gusto"
+],
+"pasos": [
+"Remojar el arroz junto con la canela en el litro de agua caliente durante al menos 4 horas o toda la noche.",
+"Licuar todo, incluida el agua de remojo, hasta obtener una mezcla lo más fina posible.",
+"Colar con un colador fino o manta de cielo.",
+"Mezclar con el agua fría, el azúcar y la leche evaporada opcional.",
+"Servir bien fría con hielo."
+],
+"tiempo": "4 h 15 min"
+},
+{
+"id": "a12",
+"nombre": "Agua de Tamarindo",
+"ingredientes": [
+"250 g de tamarindo pelado",
+"1.5 litros de agua",
+"Azúcar al gusto"
+],
+"pasos": [
+"Hervir el tamarindo en 2 tazas de agua durante 10 minutos hasta que se suavice.",
+"Dejar enfriar un poco y desbaratar la pulpa con las manos o un tenedor, separando las semillas.",
+"Colar el concentrado.",
+"Mezclar con el resto del agua y endulzar al gusto.",
+"Servir con hielo."
+],
+"tiempo": "20 min"
+},
+{
+"id": "a13",
+"nombre": "Agua de Melón",
+"ingredientes": [
+"4 tazas de melón picado, sin semillas",
+"1 litro de agua",
+"Jugo de 1 limón",
+"Azúcar al gusto (opcional)",
+"Hielo al gusto"
+],
+"pasos": [
+"Licuar el melón con el agua hasta que quede terso.",
+"Colar si se prefiere.",
+"Agregar el jugo de limón y endulzar si es necesario.",
+"Servir bien fría con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a14",
+"nombre": "Agua de Guayaba con Limón",
+"ingredientes": [
+"8 guayabas maduras, en cuartos",
+"Jugo de 2 limones",
+"1 litro de agua",
+"Azúcar al gusto",
+"Hielo al gusto"
+],
+"pasos": [
+"Licuar las guayabas con un poco de agua hasta obtener una mezcla suave.",
+"Colar para quitar las semillas.",
+"Verter en una jarra.",
+"Añadir el resto del agua, el jugo de limón y el azúcar al gusto.",
+"Mezclar bien y servir con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a15",
+"nombre": "Agua de Piña con Hierbabuena",
+"ingredientes": [
+"3 tazas de piña picada",
+"Un puñado de hojas de hierbabuena",
+"1 litro de agua",
+"Azúcar al gusto",
+"Hielo al gusto"
+],
+"pasos": [
+"Licuar la piña con la hierbabuena y un poco de agua hasta obtener una mezcla suave.",
+"Colar la mezcla y verterla en una jarra con el resto del agua.",
+"Endulzar al gusto.",
+"Servir bien fría con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a16",
+"nombre": "Agua de Maracuyá",
+"ingredientes": [
+"8 maracuyás (solo la pulpa)",
+"1 litro de agua",
+"Azúcar al gusto",
+"Hielo al gusto"
+],
+"pasos": [
+"Sacar la pulpa de los maracuyás y licuar brevemente con un poco de agua, solo para soltar las semillas sin molerlas.",
+"Colar para retirar las semillas.",
+"Mezclar con el resto del agua y azúcar al gusto.",
+"Servir con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a17",
+"nombre": "Agua de Mamey",
+"ingredientes": [
+"2 mameyes maduros, sin cáscara ni hueso",
+"1 litro de agua",
+"Azúcar al gusto",
+"Un toque de canela (opcional)"
+],
+"pasos": [
+"Licuar la pulpa de mamey con el agua hasta que quede tersa y sin grumos.",
+"Colar si se prefiere una textura más ligera.",
+"Endulzar al gusto.",
+"Añadir canela si se desea.",
+"Servir bien fría con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a18",
+"nombre": "Agua de Papaya con Naranja",
+"ingredientes": [
+"2 tazas de papaya picada",
+"Jugo de 3 naranjas",
+"1 litro de agua",
+"Azúcar al gusto (opcional)"
+],
+"pasos": [
+"Licuar la papaya con el jugo de naranja y un poco de agua hasta obtener una mezcla suave.",
+"Agregar el resto del agua.",
+"Endulzar si es necesario.",
+"Servir con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a19",
+"nombre": "Agua de Coco",
+"ingredientes": [
+"Agua de 2 a 3 cocos frescos",
+"Pulpa de los cocos (opcional)",
+"Azúcar al gusto",
+"Hielo al gusto"
+],
+"pasos": [
+"Si se utiliza la pulpa, licuarla con el agua de coco hasta integrar y colar.",
+"Si se prefiere solo el agua de coco, mezclar con un poco de agua natural y endulzar al gusto.",
+"Servir bien fría con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a20",
+"nombre": "Agua de Ciruela",
+"ingredientes": [
+"500 g de ciruelas maduras, sin hueso",
+"1 litro de agua",
+"Azúcar al gusto",
+"Un toque de canela (opcional)"
+],
+"pasos": [
+"Licuar las ciruelas con un poco de agua hasta obtener una mezcla suave.",
+"Colar si se prefiere quitar la cascarita.",
+"Mezclar con el resto del agua.",
+"Endulzar y agregar canela si se desea.",
+"Servir con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a21",
+"nombre": "Agua de Kiwi con Limón",
+"ingredientes": [
+"6 kiwis, pelados",
+"Jugo de 2 limones",
+"1 litro de agua",
+"Azúcar al gusto"
+],
+"pasos": [
+"Licuar los kiwis con el agua hasta obtener una mezcla suave.",
+"Colar para quitar las semillitas si se prefiere una textura más ligera.",
+"Agregar el jugo de limón y azúcar al gusto.",
+"Servir bien fría con hielo."
+],
+"tiempo": "10 min"
+},
+{
+"id": "a22",
+"nombre": "Agua de Zarzamora",
+"ingredientes": [
+"3 tazas de zarzamoras frescas o congeladas",
+"1 litro de agua",
+"Jugo de 1 limón",
+"Azúcar al gusto"
+],
+"pasos": [
+"Licuar las zarzamoras con un poco de agua.",
+"Colar para quitar las semillas.",
+"Mezclar con el resto del agua, el jugo de limón y azúcar al gusto.",
+"Servir con hielo."
+],
+"tiempo": "10 min"
+}
+]
