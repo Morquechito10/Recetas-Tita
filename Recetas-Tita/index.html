@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetas de la Tita</title>
+    
+    <!-- Tailwind CSS vía CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Configuración de tu paleta de colores familiar -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'tita-verde': '#249D8F',
+                        'tita-amarillo': '#E9C46A',
+                        'tita-naranja': '#E76F51',
+                        'tita-crema': '#FDF0D5',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-tita-crema text-gray-800 font-sans">
+
+    <!-- Encabezado de la página -->
+    <header class="bg-tita-verde text-white p-6 shadow-md sticky top-0 z-40">
+        <div class="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
+            <h1 class="text-3xl font-extrabold tracking-tight">🍽️ Recetas de la Tita</h1>
+            <nav class="space-x-6 font-medium">
+                <a href="#fuertes" class="hover:text-tita-amarillo transition">Platos Fuertes</a>
+                <a href="#ensaladas" class="hover:text-tita-amarillo transition">Ensaladas</a>
+                <a href="#aguas" class="hover:text-tita-amarillo transition">Aguas Frescas</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto p-6">
+        
+        <!-- Sección de Sugerencia del Día -->
+        <section class="relative bg-white p-10 rounded-3xl shadow-xl border border-tita-amarillo my-12 max-w-6xl mx-auto overflow-hidden">
+            
+            <!-- Círculo decorativo en el fondo -->
+            <div class="absolute top-0 right-0 -mr-16 -mt-16 w-64 h-64 rounded-full bg-tita-amarillo opacity-20 blur-3xl pointer-events-none"></div>
+
+            <div class="relative z-10 text-center mb-10">
+                <span class="inline-block py-1 px-4 rounded-full bg-tita-amarillo text-gray-900 font-bold text-sm tracking-widest uppercase mb-4 shadow-sm">
+                    Elección de la Tita
+                </span>
+                <h2 class="text-4xl md:text-5xl font-extrabold text-gray-800 tracking-tight">
+                    El Menú Perfecto para Hoy
+                </h2>
+            </div>
+            
+            <!-- Contenedor con transición de opacidad -->
+            <div id="menu-aleatorio-contenedor" class="grid grid-cols-1 md:grid-cols-3 gap-8 transition-opacity duration-500 ease-in-out opacity-100">
+                <!-- El JavaScript inyectará las 3 tarjetas aquí -->
+            </div>
+            
+            <div class="mt-12 flex justify-center relative z-10">
+                <button id="btn-re-generar" class="bg-tita-naranja hover:bg-opacity-90 text-white font-bold py-4 px-10 rounded-full transition-all transform hover:scale-105 shadow-lg flex items-center gap-3 text-lg">
+                    <span>🎲</span> Descubrir otra combinación
+                </button>
+            </div>
+        </section>
+
+        <!-- Contenedores para las listas completas -->
+        <section id="fuertes" class="mt-20 scroll-mt-24">
+            <h2 class="text-3xl font-bold border-b-2 border-tita-verde pb-3 mb-8 text-gray-800">Platos Fuertes</h2>
+            <div id="lista-fuertes" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6"></div>
+        </section>
+
+        <section id="ensaladas" class="mt-20 scroll-mt-24">
+            <h2 class="text-3xl font-bold border-b-2 border-tita-amarillo pb-3 mb-8 text-gray-800">Ensaladas</h2>
+            <div id="lista-ensaladas" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6"></div>
+        </section>
+
+        <section id="aguas" class="mt-20 mb-20 scroll-mt-24">
+            <h2 class="text-3xl font-bold border-b-2 border-tita-naranja pb-3 mb-8 text-gray-800">Aguas Frescas</h2>
+            <div id="lista-aguas" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6"></div>
+        </section>
+
+    </main>
+
+    <!-- VENTANA MODAL (Oculta por defecto) -->
+    <div id="modal-receta" class="fixed inset-0 bg-black bg-opacity-60 hidden flex items-center justify-center p-4 z-50 transition-opacity">
+        <div class="bg-white rounded-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto p-6 relative shadow-2xl border-4 border-tita-crema">
+            
+            <button onclick="cerrarModal()" class="absolute top-4 right-4 text-gray-400 hover:text-tita-naranja text-3xl font-bold transition">&times;</button>
+            
+            <h2 id="modal-titulo" class="text-3xl font-extrabold text-tita-verde mb-6 pr-8"></h2>
+            
+            <div class="mb-6 bg-tita-crema p-5 rounded-xl border border-tita-amarillo">
+                <h3 class="text-xl font-bold mb-3 text-gray-800 flex items-center">
+                    <span class="mr-2">🛒</span> Ingredientes
+                </h3>
+                <ul id="modal-ingredientes" class="list-disc list-inside text-gray-700 space-y-2"></ul>
+            </div>
+            
+            <div class="p-2">
+                <h3 class="text-xl font-bold mb-3 text-gray-800 flex items-center">
+                    <span class="mr-2">👨🏻‍🍳</span> Preparación
+                </h3>
+                <ol id="modal-pasos" class="list-decimal list-outside ml-5 text-gray-700 space-y-3"></ol>
+            </div>
+            
+        </div>
+    </div>
+<!-- ========================================== -->
+    <!-- VENTANA MODAL DE BIENVENIDA                -->
+    <!-- ========================================== -->
+    <div id="modal-bienvenida" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center p-4 z-[60] transition-opacity duration-500">
+        
+        <!-- Agregamos protección para pantallas pequeñas (max-h-[90vh] overflow-y-auto) -->
+        <div class="bg-tita-crema rounded-3xl max-w-lg w-full max-h-[90vh] overflow-y-auto shadow-2xl border-4 border-tita-amarillo text-center transform transition-all">
+            
+            <!-- Área de la fotografía -->
+            <div class="p-6 pb-2">
+                <!-- Cambiamos h-64 por h-96 para hacerla mucho más alta verticalmente -->
+                <img src="public/img/fotoTita.jpg" alt="La Tita y nuestra familia" class="w-full h-96 object-cover rounded-3xl shadow-md border-4 border-white" onerror="this.src='https://placehold.co/600x800/249D8F/FDF0D5?text=Foto+Familiar'">
+            </div>
+            
+            <!-- Contenido Emotivo -->
+            <div class="p-8 pt-4 relative z-10">
+                <h2 class="text-4xl font-extrabold text-tita-verde mb-4 leading-tight drop-shadow-sm">
+                    74 años de sabor <br> puestos aquí.
+                </h2>
+                
+                <p class="text-gray-700 text-lg mb-8 leading-relaxed font-medium">
+                    Este recetario es más que ingredientes y pasos; es un homenaje al cariño, a las comidas en familia y al legado de nuestra Tita. Cada platillo está sazonado con amor y preservado para unirnos siempre en la mesa.
+                </p>
+                
+                <!-- Botón para cerrar y entrar -->
+                <button onclick="cerrarBienvenida()" class="bg-tita-naranja hover:bg-opacity-90 text-white font-bold py-4 px-10 rounded-full transition-all transform hover:scale-105 shadow-lg text-lg w-full sm:w-auto flex items-center justify-center mx-auto gap-2">
+                    <span>Entrar a la cocina</span>
+                    <span class="text-2xl">❤️</span>
+                </button>
+            </div>
+            
+        </div>
+    </div>
+
+    <!-- Conexión con tu lógica de JavaScript -->
+    <script src="./src/js/app.js"></script>
+</body>
+</html>

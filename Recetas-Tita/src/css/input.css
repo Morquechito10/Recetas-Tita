@@ -1,0 +1,10 @@
+/* src/css/input.css */
+
+/* Inyecta los estilos base (reseteo de márgenes, fuentes por defecto) */
+@tailwind base;
+
+/* Inyecta clases de componentes (si decides crear componentes personalizados) */
+@tailwind components;
+
+/* Inyecta todas las clases de utilidad que usaste en tu HTML (bg-red, text-center, etc.) */
+@tailwind utilities;
